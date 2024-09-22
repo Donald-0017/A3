@@ -1,0 +1,8 @@
+{
+  "fps": 10,
+  "systemNames": [
+    "InputSystem",
+    "InventorySystem",
+    "TestSystem"
+  ]
+}
